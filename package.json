@@ -7,7 +7,7 @@
     "canvas": "^2.6.1",
     "dateformat": "^3.0.3",
     "discord.js": "^11.6.4",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "ffmpeg-static": "^4.2.7",
     "get-youtube-id": "^1.0.1",
     "guild": "^1.2.2",
